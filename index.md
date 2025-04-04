@@ -1,6 +1,7 @@
 # Johnson's User Page
 ## By Johnson Chung
 My name is Johnson and I am a 3rd year ECE computer engineering major.
+**There** _are_ ~~a~~ **_lot_** ***of*** styling stuff so I will try to do them all in this sentence.
 
 ### Styling text
 **This is bold text**
