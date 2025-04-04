@@ -1,5 +1,7 @@
 # Johnson's User Page
 ## By Johnson Chung
+My name is Johnson and I am a 3rd year ECE computer engineering major.
+
 ### Styling text
 **This is bold text**
 _This text is italicized_
