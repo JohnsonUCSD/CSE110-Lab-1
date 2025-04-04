@@ -1,28 +1,12 @@
 # Johnson's User Page
 ## By Johnson Chung
+### PID: A17479310
+
 My name is **Johnson** and I am a _3rd year_ ECE computer engineering major.
 
 I don't have **_any_** experience coding an app or software. I also have not worked on a coding project ***in a group***. 
 
 I am kind of <sub>terrified</sub> to take this course but so far after the first <sup>two</sup> lectures, it seems <ins>fun</ins>,
-
-**This is bold text**
-
-_This text is italicized_
-
-~~This was mistaken text~~
-
-**This text is _extremely_ important**
-
-***All this text is important***
-
-This is a <sub>subscript</sub> text
-
-This is a <sup>superscript</sup> text
-
-This is an <ins>underlined</ins> text
-
-
 
 ## Programming Languages Previously Used (unordered list)
 - Python
@@ -34,12 +18,13 @@ This is an <ins>underlined</ins> text
 1. How to code an app/software
 2. How to work in a group project
 
-> Text that is a quote
 
+### One of my favorite quotes
+> "Sbeve"
+
+### Hardest thing I have coded
 ```
-git status
-git add
-git commit
+print("Hello, World!")
 ```
 
 external link
