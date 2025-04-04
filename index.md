@@ -2,6 +2,10 @@
 ## By Johnson Chung
 My name is **Johnson** and I am a _3rd year_ ECE computer engineering major.
 
+I don't have **_any_** experience coding an app or software. I also have not worked on a coding project ***in a group***. 
+
+I am kind of <sub>terrified</sub> to take this course but so far after the first <sup>two</sup> lectures, it seems <ins>fun</ins>,
+
 **This is bold text**
 
 _This text is italicized_
