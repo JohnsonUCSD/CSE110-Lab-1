@@ -19,13 +19,13 @@ I am kind of <sub>terrified</sub> to take this course but so far after the first
 2. How to work in a group project
 
 
-### One of my favorite quotes
 > "Sbeve"
 
 ### Hardest thing I have coded
 ```
 print("Hello, World!")
 ```
+> kidding
 
 external link
 This site was built using [GitHub Pages](https://pages.github.com/).
