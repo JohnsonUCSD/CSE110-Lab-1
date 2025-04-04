@@ -18,9 +18,6 @@ I am kind of <sub>terrified</sub> to take this course but so far after the first
 1. How to code an app/software
 2. How to work in a group project
 
-
-> "Sbeve"
-
 ### Hardest thing I have coded
 ```
 print("Hello, World!")
@@ -33,8 +30,8 @@ This site was built using [GitHub Pages](https://pages.github.com/).
 sectoin link
 This site was built using [GitHub Pages](https://pages.github.com/).
 
-relative link
-[Contribution guidelines for this project](docs/CONTRIBUTING.md)
+Relative Link to the `add-read-me` branch
+[`add-read-me`](docs/CONTRIBUTING.md)
 
 
 1. James Madison
