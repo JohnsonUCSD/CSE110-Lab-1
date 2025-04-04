@@ -1,7 +1,8 @@
 # Johnson's User Page
 ## By Johnson Chung
-My name is Johnson and I am a 3rd year ECE computer engineering major.
-**There** _are_ ~~a~~ **_lot_** ***of*** styling stuff so I will try to do them all in this sentence.
+My name is **Johnson** and I am a _3rd year_ ECE computer engineering major.
+
+
 
 ### Styling text
 **This is bold text**
@@ -13,6 +14,15 @@ This is a <sub>subscript</sub> text
 This is a <sup>superscript</sup> text
 This is an <ins>underlined</ins> text
 
+## Programming Languages Previously Used (unordered list)
+- Python
+- Java
+- C
+- Verilog
+
+## Things I want to learn in this class (ordered list)
+1. How to code an app/software
+2. How to work in a group project
 
 > Text that is a quote
 
@@ -31,15 +41,12 @@ This site was built using [GitHub Pages](https://pages.github.com/).
 relative link
 [Contribution guidelines for this project](docs/CONTRIBUTING.md)
 
-Ordered list
+
 1. James Madison
 2. James Monroe
 3. John Quincy Adams
 
-Unordered list
-- George Washington
-* John Adams
-+ Thomas Jefferson
+
 
 Task lists
 - [x] #739
