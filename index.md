@@ -32,16 +32,16 @@ External Link: [External link to another webpage (Cat Video)](https://www.youtub
 Section Link: [Section Link to programming languages I have previously used](#programming-languages-previously-used-unordered-list).
 https://github.com/JohnsonUCSD/CSE110-Lab-1/blob/main/README.md
 
-Relative Link: [`README.md`](README.md)
+Relative Link: [to `README.md`](README.md)
 
-## Checklist for using Markdown
+## Checklist for using Markdown (tasks list)
 - [x] Headings
 - [x] Styling text
 - [x] Quoting text
 - [x] Quoting code
 - [x] External Links (Link to another webpage)
 - [x] Section links (Link to a header in the same .md file)
-- [ ] Relative links (Link to another .md file or an image in your repo. If linking to an image, encode it as a regular link rather than an image.)
+- [x] Relative links (Link to another .md file or an image in your repo. If linking to an image, encode it as a regular link rather than an image.)
 - [x] Ordered and Unordered Lists
 - [X] Tasks list
 - [ ] Empty one just incase I need to show it
