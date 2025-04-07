@@ -28,7 +28,7 @@ print("Hello, World!")
 [External link to another webpage (Cat Video)](https://www.youtube.com/watch?v=BjDozn9EQ8k)
 
 sectoin link
-This site was built using [GitHub Pages](https://pages.github.com/).
+[Section Link to programming languages I have previously used](#Programming-Languages-Previously-Used).
 
 Relative Link to the `add-read-me` branch
 [`add-read-me`](docs/CONTRIBUTING.md)
