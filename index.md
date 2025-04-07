@@ -24,8 +24,8 @@ print("Hello, World!")
 ```
 > kidding
 
-external link
-This site was built using [GitHub Pages](https://pages.github.com/).
+
+[External link to another webpage (Cat Video)](https://www.youtube.com/watch?v=BjDozn9EQ8k)
 
 sectoin link
 This site was built using [GitHub Pages](https://pages.github.com/).
@@ -33,16 +33,16 @@ This site was built using [GitHub Pages](https://pages.github.com/).
 Relative Link to the `add-read-me` branch
 [`add-read-me`](docs/CONTRIBUTING.md)
 
-
-1. James Madison
-2. James Monroe
-3. John Quincy Adams
-
-
-
-Task lists
-- [x] #739
-- [ ] https://github.com/octo-org/octo-repo/issues/740
-- [ ] Add delight to the experience when all tasks are complete :tada:
+## Checklist for using Markdown
+- [x] Headings
+- [x] Styling text
+- [x] Quoting text
+- [x] Quoting code
+- [ ] External Links (Link to another webpage)
+- [ ] Section links (Link to a header in the same .md file)
+- [ ] Relative links (Link to another .md file or an image in your repo. If linking to an image, encode it as a regular link rather than an image.)
+- [x] Ordered and Unordered Lists
+- [X] Tasks list
+- [ ] Empty one just incase I need to show it
 
 
