@@ -30,9 +30,9 @@ External Link: [External link to another webpage (Cat Video)](https://www.youtub
 
 
 Section Link: [Section Link to programming languages I have previously used](#programming-languages-previously-used-unordered-list).
+https://github.com/JohnsonUCSD/CSE110-Lab-1/blob/main/README.md
 
-Relative Link to the `add-read-me` branch
-[`add-read-me`](docs/CONTRIBUTING.md)
+Relative Link: [`README.md`](JohnsonUCSD/CSE110-Lab-1/blob/main/README.md)
 
 ## Checklist for using Markdown
 - [x] Headings
