@@ -28,7 +28,7 @@ print("Hello, World!")
 [External link to another webpage (Cat Video)](https://www.youtube.com/watch?v=BjDozn9EQ8k)
 
 sectoin link
-[Section Link to programming languages I have previously used](#Programming-Languages-Previously-Used).
+[Section Link to programming languages I have previously used](#programming-languages-previously-used-unordered-list).
 
 Relative Link to the `add-read-me` branch
 [`add-read-me`](docs/CONTRIBUTING.md)
