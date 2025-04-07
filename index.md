@@ -1,5 +1,4 @@
 # Johnson's User Page
-## By Johnson Chung
 ### PID: A17479310
 
 My name is **Johnson** and I am a _3rd year_ ECE computer engineering major.
