@@ -25,10 +25,10 @@ print("Hello, World!")
 > kidding
 
 
-[External link to another webpage (Cat Video)](https://www.youtube.com/watch?v=BjDozn9EQ8k)
+External Link: [External link to another webpage (Cat Video)](https://www.youtube.com/watch?v=BjDozn9EQ8k)
 
-sectoin link
-[Section Link to programming languages I have previously used](#programming-languages-previously-used-unordered-list).
+
+Section Link: [Section Link to programming languages I have previously used](#programming-languages-previously-used-unordered-list).
 
 Relative Link to the `add-read-me` branch
 [`add-read-me`](docs/CONTRIBUTING.md)
@@ -38,8 +38,8 @@ Relative Link to the `add-read-me` branch
 - [x] Styling text
 - [x] Quoting text
 - [x] Quoting code
-- [ ] External Links (Link to another webpage)
-- [ ] Section links (Link to a header in the same .md file)
+- [x] External Links (Link to another webpage)
+- [x] Section links (Link to a header in the same .md file)
 - [ ] Relative links (Link to another .md file or an image in your repo. If linking to an image, encode it as a regular link rather than an image.)
 - [x] Ordered and Unordered Lists
 - [X] Tasks list
