@@ -17,6 +17,8 @@ I am kind of <sub>terrified</sub> to take this course but so far after the first
 1. How to code an app/software
 2. How to work in a group project
 
+## Other things for checklist 
+
 ### Hardest thing I have coded
 ```
 print("Hello, World!")
